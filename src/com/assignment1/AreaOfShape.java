@@ -17,8 +17,6 @@ public class AreaOfShape {
 		tr.areaOfTriangle(10, 20);
 		tr.circumferenceOfTriangle(10, 10, 10);
 	}
-	
-	
 }    
 
 class Circle{
